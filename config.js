@@ -41,7 +41,7 @@ const config = {
       "note lists",
   },
   siteMetadata: {
-    title: 'Notebook | Wahudamon',
+    title: 'Notebook',
     description: "Afwa Bagas Wahuda's personal notebook",
     ogImage: null,
     docsLocation: 'https://github.com/wahudamon/notebook/tree/master/content',
