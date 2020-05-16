@@ -4,4 +4,4 @@ metaTitle: "Programming"
 metaDescription: "Yang saya pelajari di bidang pemrograman"
 ---
 
-TBD.
+Saya mencatat segala hal yang saya dapat ketika belajar pemrograman atau *ngoding*.
