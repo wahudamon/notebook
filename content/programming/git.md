@@ -43,9 +43,28 @@ git commit -a
 ```
 perintah ini digunakan mencatat perubahan yang dilakukan pada sebuah file atau lebih
 
+- **git diff**
+```git
+git diff
+```
+perintah git diff digunakan untuk menginspeksi perubahan yang dilakukan ketika bekerja pada suatu repositori Git yang belum masuk ke staging area
+
+- **git diff -staged**
+```git
+git diff --staged
+```
+perintah git diff digunakan untuk menginspeksi perubahan yang dilakukan ketika bekerja pada suatu repositori Git yang sudah masuk ke staging area
+
+- **git diff branch**
+```git
+git diff branch_1 branch_2
+```
+perintah ini menginspeksi perubahan dan perbedaan antara branch pertama dan kedua yang disebutkan pada baris perintah git diff
+
 lanjut nanti lagi deh...
 
 ### Links
 - [tentang git](https://www.petanikode.com/git-untuk-pemula/)
 - [setup ssh di git](https://www.petanikode.com/github-ssh)
 - [basic git command](https://www.edureka.co/blog/git-commands-with-example/)
+- [bermain dengan git diff](https://icalrn.id/bermain-dengan-git-diff/)
