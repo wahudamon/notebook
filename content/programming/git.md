@@ -28,7 +28,22 @@ git clone git@github.com:wahudamon/notebook.git
 ```
 perintah ini digunakan untuk mendapatkan repo dari url github atau gitlab
 
-lanjut nanti gan, capek..
+- **git add**
+```git
+git add project_1
+git add *
+```
+perintah ini digunakan untuk menambahkan sebuah file atau lebih ke dalam staging area
+
+- **git commit**
+```git
+git commit -m "[tuliskan pesan commitnya]"
+git commit -m "merubah let menjadi const"
+git commit -a
+```
+perintah ini digunakan mencatat perubahan yang dilakukan pada sebuah file atau lebih
+
+lanjut nanti lagi deh...
 
 ### Links
 - [tentang git](https://www.petanikode.com/git-untuk-pemula/)
