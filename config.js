@@ -32,8 +32,18 @@ const config = {
     },
   },
   sidebar: {
-    forcedNavOrder: [],
-    collapsedNav: [],
+    forcedNavOrder: [
+      "/books",
+      "/coding",
+      "/japanese-popculture",
+      "/religion",
+    ],
+    collapsedNav: [
+      "/books",
+      "/coding",
+      "/japanese-popculture",
+      "/religion",
+    ],
     links: [],
     frontline: false,
     ignoreIndex: true,
