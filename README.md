@@ -1,4 +1,5 @@
-# My Personal Notebook
-This repository is my personal notebook. New knowledge that i get or i learn will be written in this repo. For remembering things that i learn or get.
+# Personal Notebook
 
-Inspired by [Wayan Jimmy](https://twitter.com/wayanjimmy) that make his own personal notebook too. Feel free to check his notebook [here](https://notebook.wayanjimmy.xyz/).
+Repositori ini adalah sebuah personal notes yang saya buat untuk menampung catatan pribadi atau *personal notes* untuk membantu diri saya sendiri mengingat tentang hal-hal yang telah saya pelajari dan membagikannya ke publik dalam waktu yang bersamaan.
+
+Terinspirasi dari mas [Wayan Jimmy](https://twitter.com/wayanjimmy) yang sudah membuat terlebih dahulu personal notes-nya [disini](https://notebook.wayanjimmy.xyz/).
