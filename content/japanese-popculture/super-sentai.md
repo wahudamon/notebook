@@ -28,4 +28,4 @@ Dan fakta menariknya, di kebanyakan serial Super Sentai adalah Ranger merah yang
 - [Mashin Sentai Kiramager](https://en.wikipedia.org/wiki/Mashin_Sentai_Kiramager)
 
 ### Sedang Ditonton
-- [Mashin Sentai Kiramager](https://en.wikipedia.org/wiki/Mashin_Sentai_Kiramager)
+- [Kikai Sentai Zenkaiger](https://en.wikipedia.org/wiki/Kikai_Sentai_Zenkaiger)

@@ -34,11 +34,16 @@ Bisa dibilang saya penikmat anime yang lumayan aktif mengikuti seri-seri anime y
 - [Seitokai Yakuindomo](https://myanimelist.net/anime/8675/Seitokai_Yakuindomo)
 - [Yu-Gi-Oh! Duel Monsters](https://myanimelist.net/anime/481/Yu%E2%98%86Gi%E2%98%86Oh_Duel_Monsters)
 - [Yu-Gi-Oh! VRAINS](https://myanimelist.net/anime/34866/Yu%E2%98%86Gi%E2%98%86Oh_VRAINS)
-
-### Sedang Ditonton
+- [Sword Art Online: Alicization - War of Underworld 2nd Season](https://myanimelist.net/anime/40540/Sword_Art_Online__Alicization_-_War_of_Underworld_2nd_Season)
 - [Plunderer](https://myanimelist.net/anime/37345/Plunderer)
 - [Shokugeki no Souma : Gou no Sara](https://myanimelist.net/anime/40902/Shokugeki_no_Souma__Gou_no_Sara)
-- [Zoids Wild Zero](https://myanimelist.net/anime/40166/Zoids_Wild_Zero)
+- Dr. STONE Season 2
+- Jujutsu Kaisen
+- Attack on Titan Final Season
+- Log Horizon Season 3
 
-### Rencana Mau Nonton
-- [Sword Art Online: Alicization - War of Underworld 2nd Season](https://myanimelist.net/anime/40540/Sword_Art_Online__Alicization_-_War_of_Underworld_2nd_Season)
+### Sedang Ditonton
+- Yuru Camp Season 2
+- Nanatsu no Taizai : Fundo no Shinpan
+- Boku no Hero Academia Season 5
+- Gokushufudo : The Way of Househusband

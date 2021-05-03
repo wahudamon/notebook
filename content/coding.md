@@ -11,3 +11,6 @@ Saya mencatat segala hal yang saya dapat ketika belajar pemrograman atau *ngodin
 
 ## Version Control
 - [Git](https://notebook.wahudamon.com/coding/git)
+
+## Others
+- [Istilah-istilah dalam pemrograman](https://notebook.wahudamon.com/coding/terms)

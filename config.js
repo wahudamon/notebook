@@ -8,7 +8,7 @@ const config = {
   header: {
     logo: 'https://avatars3.githubusercontent.com/u/42200282?s=460&u=cbdde567fe7c7537dbed213ce64add02bed616fd&v=4',
     logoLink: 'https://notebook.wahudamon.com',
-    title: 'Bagas Notebook',
+    title: 'Notebook',
     githubUrl: 'https://github.com/wahudamon/notebook',
     helpUrl: '',
     tweetText: '',
@@ -48,20 +48,21 @@ const config = {
     frontline: false,
     ignoreIndex: true,
     title:
-      "note lists",
+      "knowledge base",
   },
   siteMetadata: {
     title: 'Notebook',
-    description: "Afwa Bagas Wahuda's personal notebook",
+    description: "Bagas' personal notebook as knowledge base",
     ogImage: null,
     docsLocation: 'https://github.com/wahudamon/notebook/tree/master/content',
-    favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
+    favicon: 'https://avatars3.githubusercontent.com/u/42200282?s=460&u=cbdde567fe7c7537dbed213ce64add02bed616fd&v=4'
+    // 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg,'
   },
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.
     manifest: {
       name: 'Bagas Notebook',
-      short_name: 'NotebookDamon',
+      short_name: 'BagasNotebook',
       start_url: '/',
       background_color: '#6b37bf',
       theme_color: '#6b37bf',

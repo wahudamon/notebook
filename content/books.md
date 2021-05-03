@@ -4,4 +4,18 @@ metaTitle: "Books"
 metaDescription: "Tentang buku"
 ---
 
-Untuk daftar buku bacaan saya atau buku yang ingin saya baca ada di [Goodreads](https://www.goodreads.com/user/show/103017754-afwa-bagas-wahuda) saya.
+### Sudah dibaca
+- The Subtle Art of Not Giving a F*ck
+- Goodbye, Things: The new Japanese Minimalism
+- Steal Like an Artist
+- Filosofi Teras
+### Sedang dibaca
+- Outliers: The Story of Success
+- Digital Minimalism
+
+### Ingin dibaca
+- The Airbnb Story
+- Ego is the Enemy
+- The 4-Hour Workweek
+- The Power of Habit
+- Garis Waktu

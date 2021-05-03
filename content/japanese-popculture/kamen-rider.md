@@ -24,4 +24,4 @@ Terutama ketika melihat dari sisi story line nya, yang menurut saya jalan cerita
 - [Kamen Rider Zero-One](https://en.wikipedia.org/wiki/Kamen_Rider_Zero-One)
 
 ### Sedang Ditonton
-- [Kamen Rider Zero-One](https://en.wikipedia.org/wiki/Kamen_Rider_Zero-One)
+- [Kamen Rider Saber](https://en.wikipedia.org/wiki/Kamen_Rider_Saber)
