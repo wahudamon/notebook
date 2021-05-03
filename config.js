@@ -36,17 +36,19 @@ const config = {
       "/books",
       "/coding",
       "/japanese-popculture",
+      "/plants",
+      "/podcasts",
       "/religion",
       "/writing",
-      "/podcasts"
     ],
     collapsedNav: [
       "/books",
       "/coding",
       "/japanese-popculture",
+      "/plants",
+      "/podcasts",
       "/religion",
       "/writing",
-      "/podcasts"
     ],
     links: [],
     frontline: false,
