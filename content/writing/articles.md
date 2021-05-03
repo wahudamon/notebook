@@ -19,4 +19,8 @@ metaDescription: "Tentang artikel dan kutipan yang berguna bagi saya dari penuli
 - [At least i tried](https://faultable.dev/at-least-i-tried/)
 - [Programmer mindset bermain Tinder](https://faultable.dev/programmer-mindset-bermain-tinder/)
 - [Apa yang ingin kamu kerjakan hari ini?](https://faultable.dev/apa-yang-ingin-kamu-kerjakan-hari-ini/)
-
+- [Yang mau akan cari jalan](https://hilman.space/yang-mau-akan-cari-jalan)
+- [Sisi horror sosial media](https://hilman.space/sosmed)
+- [Hidup dengan likes](https://hilman.space/hidup-dengan-likes)
+- [Mulai dari akhir](https://hilman.space/mulai-dari-akhir)
+- [663 days of journaling](http://proses.id/journaling/)
