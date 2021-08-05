@@ -9,13 +9,16 @@ metaDescription: "Tentang buku"
 - Goodbye, Things: The new Japanese Minimalism
 - Steal Like an Artist
 - Filosofi Teras
-### Sedang dibaca
-- Outliers: The Story of Success
 - Digital Minimalism
+- Deep Work
+
+### Sedang dibaca
+- Hyouka Volume 5
+- So Good They Can't Ignore You
 
 ### Ingin dibaca
 - The Airbnb Story
 - Ego is the Enemy
 - The 4-Hour Workweek
 - The Power of Habit
-- Garis Waktu
+- Outliers: The Story of Success

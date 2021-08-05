@@ -15,6 +15,7 @@ metaDescription: "Segala hal tentang podcast"
 - [Developer Muslim Podcast](https://open.spotify.com/show/2iXE3tvUyqeJiFWQJPFgZS?si=1a245ddfc4864aee)
 - [Ruangguru Engineering](https://open.spotify.com/show/2HKnFo10IvP8Ac5tXiFSPK?si=8bd4d97879aa4d15)
 - [tehataukopi](https://open.spotify.com/show/5ixPRjtMnO92teoj5Vxbuf?si=0ed8b4bccf964760)
+- [Obrolan Kala Rehat](https://open.spotify.com/show/2hZ9LIbOghzG7XqVetYCGh)
 
 #### Episode Favorit
 - [Melamun adalah Bagian dari Berpikir Kreatif](https://open.spotify.com/episode/5cjXh60L5cbzme6Q3YVxrx?si=QM2md8y0SWqO_eWL3PEZEw)

@@ -41,9 +41,9 @@ Bisa dibilang saya penikmat anime yang lumayan aktif mengikuti seri-seri anime y
 - Jujutsu Kaisen
 - Attack on Titan Final Season
 - Log Horizon Season 3
-
-### Sedang Ditonton
 - Yuru Camp Season 2
 - Nanatsu no Taizai : Fundo no Shinpan
+
+### Sedang Ditonton
 - Boku no Hero Academia Season 5
 - Gokushufudo : The Way of Househusband
